@@ -1,0 +1,3 @@
+[submodule "lib_q2"]
+	path = lib_q2
+	url = https://github.com/mnabi18/Assignment7Q2.git
